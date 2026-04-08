@@ -1,0 +1,17 @@
+.container{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+
+}
+body {
+    background-color: #f5f7fa;
+}
+
+.form-container {
+    width: 400px;
+    border-radius: 12px;
+}

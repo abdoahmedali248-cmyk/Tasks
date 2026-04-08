@@ -1,0 +1,419 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  font-family: "Poppins", sans-serif;
+ margin: 0;
+ padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+}
+header{
+    background-color: #f0f0f0;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+
+}
+.logo{
+
+  text-decoration: none;
+  color: #3a6cf4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.8em;
+}
+.navigation a{
+  color: #3a6cf4;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 500;
+  padding-left: 30px;
+}
+
+.navigation a:hover{
+  color: #601cfc;
+}
+
+section{
+  padding: 100px 200px;
+}
+
+.main{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #000016;
+  background-size: cover;
+  background-position: center;
+  padding-top: 80px;
+}
+.home-image img{
+    width: 350px;        
+    height: 350px;        
+    border-radius: 50%;    
+    object-fit: cover;    
+    object-position: center;
+    border: 5px solid #38bdf8; 
+    box-shadow: 0 0 35px rgba(56,189,248,0.6); 
+}
+
+
+.skills {
+    padding: 80px 100px;
+    background-color: #f7f7f7;
+}
+
+.skills .title {
+    text-align: center;
+    font-size: 2.2em;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+
+.skill-card {
+    background: white;
+    padding: 20px 35px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    font-weight: 600;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.skill-card:hover {
+    transform: translateY(-8px);
+    background: #3a6cf4;
+    color: white;
+}
+
+
+.main h2{
+  color: #fff;
+  font-size: 1.4em;
+  font-weight: 500;
+}
+.main h2 span{
+  display: inline-block;
+  margin-top: 10px;
+  color: #4e9eff;
+  font-size: 3em;
+  font-weight: 600; 
+}
+.main h3{
+  color:#fff ;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.maim-btn{
+  color: #fff;
+  background-color: #3a6cf4;
+  text-decoration: none;
+  font-size: 1.1em;
+  font-weight: 600;
+  display: inline-block;
+  padding: 0.9375em 2.1875em;
+  letter-spacing: 1px;
+  border-radius: 15px;
+  margin-bottom: 40px;
+  transition: 0.7s ease;
+}
+.maim-btn:hover{
+  background-color: #0a49f6;
+  transform: scale(1.1);
+}
+
+.social-icons a{
+  color: #fff;
+  font-size: 1.7em;
+  padding-right: 30px;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  color: #3a6cf4;
+  font-size: 2.2em;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+.Projects{
+  background-color: #000016;
+
+}
+.Projects .content{
+
+  margin-top: 30px;
+}
+
+.cards {
+    background-color: #f5f5f5;
+    padding: 80px 20px;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    color: #1d4ed8;
+    margin-bottom: 50px;
+}
+
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+
+.card {
+    background: #fff;
+    width: 260px;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: 0.3s ease;
+}
+
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+
+.icon i {
+    font-size: 50px;
+    color: #2563eb;
+    margin-bottom: 15px;
+}
+
+.info{
+  text-align: center;
+}
+.info h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.info p {
+    color: #555;
+    font-size: 16px;
+    line-height: 1.6;
+word-wrap: break-word;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+    .contact .info p{font-size: 1.3em;}
+
+    .footer{
+      background-color: #000016;
+      color: #fff;
+      padding: 2em;
+      display: flex;
+      justify-content: space-between;
+    }
+.footer-title{
+  font-size: 1.3em;
+  font-weight: 600;
+
+}
+.footer-title span{
+  color:#3a6cf4
+}
+.footer .social-icons a{
+  font-size:  1.3em ;
+  padding: 0 12px 0 0;
+}
+@media (max-width:1023px)
+{
+  header{
+    padding: 12px 20px;
+  }
+  .navigation{
+    padding-left:  10px;
+  }
+  .title{
+    font-size: 1.8em;
+  }
+  section{
+padding: 80px 20px;
+
+  }
+    .main-content h2{
+    font-size: 1em;
+  }
+  .main-content h3{
+    font-size: 1.6em;
+  }
+  .content{
+    flex-direction: column;
+    align-items: center;
+
+  }
+}
+@media (max-width:641px) {
+  body{
+    font-size: 12px;
+   
+  }
+  .main-content h2{
+    font-size: 0.8me;
+  }
+   .main-content h3{
+    font-size: 1.4me;
+  }
+}
+@media (max-width:300px) {
+  body{
+    font-size: 10px;
+   
+  }
+  .main-content h2{
+    font-size: 0.8me;
+  }
+   .main-content h3{
+    font-size: 1.4me;
+  }
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+section {
+  padding: 100px 10%;
+}
+
+
+@media (max-width: 992px) {
+
+  header {
+    padding: 15px 40px;
+  }
+
+  .navigation a {
+    padding-left: 15px;
+    font-size: 1em;
+  }
+
+  .main {
+    flex-direction: column;
+    text-align: center;
+    padding-top: 120px;
+  }
+
+  .home-image img {
+    width: 260px;
+    height: 260px;
+    margin-top: 30px;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  section {
+    padding: 80px 20px;
+  }
+
+  .skills {
+    padding: 60px 20px;
+  }
+
+  .contact {
+    flex-direction: column;
+  }
+
+  .footer {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
+
+  .skill-card {
+    font-size: 1em;
+    padding: 15px 20px;
+  }
+}
+
+
+@media (max-width: 480px) {
+
+  header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .logo {
+    font-size: 1.4em;
+  }
+
+  .navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .navigation a {
+    padding: 8px;
+    font-size: 0.9em;
+  }
+
+  .main h2 span {
+    font-size: 2em;
+  }
+
+  .main h3 {
+    font-size: 1.4em;
+  }
+
+  .home-image img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .card {
+    width: 90%;
+  }
+}
+
+
+@media (max-width: 320px) {
+
+  body {
+    font-size: 11px;
+  }
+
+  .main h3 {
+    font-size: 1.2em;
+  }
+}
