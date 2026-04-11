@@ -1,0 +1,15 @@
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\bin\Debug\net8.0\Superhero Battle Arena.exe
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\bin\Debug\net8.0\Superhero Battle Arena.deps.json
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\bin\Debug\net8.0\Superhero Battle Arena.runtimeconfig.json
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\bin\Debug\net8.0\Superhero Battle Arena.dll
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\bin\Debug\net8.0\Superhero Battle Arena.pdb
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.AssemblyInfoInputs.cache
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.AssemblyInfo.cs
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.csproj.CoreCompileInputs.cache
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.sourcelink.json
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.dll
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\refint\Superhero Battle Arena.dll
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.pdb
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\Superhero Battle Arena.genruntimeconfig.cache
+C:\Users\ABDO\Desktop\Tasks\Superhero Battle Arena\Superhero Battle Arena\obj\Debug\net8.0\ref\Superhero Battle Arena.dll

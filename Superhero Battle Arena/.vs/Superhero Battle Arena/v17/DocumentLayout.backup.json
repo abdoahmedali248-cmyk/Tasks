@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|c:\\users\\abdo\\desktop\\tasks\\superhero battle arena\\superhero battle arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|solutionrelative:superhero battle arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|c:\\users\\abdo\\desktop\\tasks\\superhero battle arena\\superhero battle arena\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|solutionrelative:superhero battle arena\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|c:\\users\\abdo\\desktop\\tasks\\superhero battle arena\\superhero battle arena\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|solutionrelative:superhero battle arena\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|c:\\users\\abdo\\desktop\\tasks\\superhero battle arena\\superhero battle arena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|solutionrelative:superhero battle arena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|c:\\users\\abdo\\desktop\\tasks\\superhero battle arena\\superhero battle arena\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146D8958-4EAC-4728-9C84-C64B0A35D2FE}|Superhero Battle Arena\\Superhero Battle Arena.csproj|solutionrelative:superhero battle arena\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Archer.cs",
+              "RelativeDocumentMoniker": "Superhero Battle Arena\\Archer.cs",
+              "ToolTip": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Archer.cs",
+              "RelativeToolTip": "Superhero Battle Arena\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:48:19.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Mage.cs",
+              "RelativeDocumentMoniker": "Superhero Battle Arena\\Mage.cs",
+              "ToolTip": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Mage.cs",
+              "RelativeToolTip": "Superhero Battle Arena\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:47:32.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Warrior.cs",
+              "RelativeDocumentMoniker": "Superhero Battle Arena\\Warrior.cs",
+              "ToolTip": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Warrior.cs",
+              "RelativeToolTip": "Superhero Battle Arena\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:46:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Hero.cs",
+              "RelativeDocumentMoniker": "Superhero Battle Arena\\Hero.cs",
+              "ToolTip": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Hero.cs",
+              "RelativeToolTip": "Superhero Battle Arena\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:45:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Program.cs",
+              "RelativeDocumentMoniker": "Superhero Battle Arena\\Program.cs",
+              "ToolTip": "C:\\Users\\ABDO\\Desktop\\Tasks\\Superhero Battle Arena\\Superhero Battle Arena\\Program.cs*",
+              "RelativeToolTip": "Superhero Battle Arena\\Program.cs*",
+              "ViewState": "AgIAAAIAAACYmZmZmZkmwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T09:29:23.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
