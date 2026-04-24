@@ -1,0 +1,15 @@
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\bin\Debug\net8.0\OrderNotificationApp.exe
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\bin\Debug\net8.0\OrderNotificationApp.deps.json
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\bin\Debug\net8.0\OrderNotificationApp.runtimeconfig.json
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\bin\Debug\net8.0\OrderNotificationApp.dll
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\bin\Debug\net8.0\OrderNotificationApp.pdb
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.AssemblyInfoInputs.cache
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.AssemblyInfo.cs
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.sourcelink.json
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.dll
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\refint\OrderNotificationApp.dll
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.pdb
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\OrderNotificationApp.genruntimeconfig.cache
+C:\Users\ABDO\Desktop\Tasks\OrderNotificationApp\obj\Debug\net8.0\ref\OrderNotificationApp.dll
